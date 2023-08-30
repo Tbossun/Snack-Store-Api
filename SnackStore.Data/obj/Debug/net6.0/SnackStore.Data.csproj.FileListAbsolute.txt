@@ -1,0 +1,12 @@
+C:\Users\alabi\Desktop\OnBoard\Snack-Store.Sln\SnackStore.Data\bin\Debug\net6.0\SnackStore.Data.deps.json
+C:\Users\alabi\Desktop\OnBoard\Snack-Store.Sln\SnackStore.Data\bin\Debug\net6.0\SnackStore.Data.dll
+C:\Users\alabi\Desktop\OnBoard\Snack-Store.Sln\SnackStore.Data\bin\Debug\net6.0\SnackStore.Data.pdb
+C:\Users\alabi\Desktop\OnBoard\Snack-Store.Sln\SnackStore.Data\obj\Debug\net6.0\SnackStore.Data.csproj.AssemblyReference.cache
+C:\Users\alabi\Desktop\OnBoard\Snack-Store.Sln\SnackStore.Data\obj\Debug\net6.0\SnackStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alabi\Desktop\OnBoard\Snack-Store.Sln\SnackStore.Data\obj\Debug\net6.0\SnackStore.Data.AssemblyInfoInputs.cache
+C:\Users\alabi\Desktop\OnBoard\Snack-Store.Sln\SnackStore.Data\obj\Debug\net6.0\SnackStore.Data.AssemblyInfo.cs
+C:\Users\alabi\Desktop\OnBoard\Snack-Store.Sln\SnackStore.Data\obj\Debug\net6.0\SnackStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\alabi\Desktop\OnBoard\Snack-Store.Sln\SnackStore.Data\obj\Debug\net6.0\SnackStore.Data.dll
+C:\Users\alabi\Desktop\OnBoard\Snack-Store.Sln\SnackStore.Data\obj\Debug\net6.0\refint\SnackStore.Data.dll
+C:\Users\alabi\Desktop\OnBoard\Snack-Store.Sln\SnackStore.Data\obj\Debug\net6.0\SnackStore.Data.pdb
+C:\Users\alabi\Desktop\OnBoard\Snack-Store.Sln\SnackStore.Data\obj\Debug\net6.0\ref\SnackStore.Data.dll
